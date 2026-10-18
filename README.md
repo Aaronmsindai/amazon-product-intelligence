@@ -4,7 +4,7 @@
 > A hybrid SQL + RAG system for product review intelligence — FastAPI, LangChain, ChromaDB, and semantic search over 568,454 Amazon reviews.
 ## 🌐 Live Demo
 
-🚀 **[Try the app live →](https://amazon-appuct-intelligence-6abwxx46kxgzxnn6ysa4s.streamlit.app)**
+🚀 **[Try the app live →](https://amazon-product-intelligence-6abwxx46kxgzxnn6ysa4s.streamlit.app)**
 
 Ask questions like:
 - *"How many 5-star reviews are there?"* → SQL
